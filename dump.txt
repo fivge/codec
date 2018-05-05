@@ -1,0 +1,9 @@
+[   21.181976] snd_hda_codec_conexant hdaudioC1D0: CX20751/2: BIOS auto-probing.
+[   21.182265] snd_hda_codec_conexant hdaudioC1D0: autoconfig for CX20751/2: line_outs=1 (0x17/0x0/0x0/0x0/0x0) type:speaker
+[   21.182268] snd_hda_codec_conexant hdaudioC1D0:    speaker_outs=0 (0x0/0x0/0x0/0x0/0x0)
+[   21.182270] snd_hda_codec_conexant hdaudioC1D0:    hp_outs=1 (0x16/0x0/0x0/0x0/0x0)
+[   21.182271] snd_hda_codec_conexant hdaudioC1D0:    mono: mono_out=0x0
+[   21.182273] snd_hda_codec_conexant hdaudioC1D0:    inputs:
+[   21.182275] snd_hda_codec_conexant hdaudioC1D0:      Internal Mic=0x1a
+[   21.182276] snd_hda_codec_conexant hdaudioC1D0:      Mic=0x19
+[   21.183057] snd_hda_codec_conexant hdaudioC1D0: Enable sync_write for stable communication
